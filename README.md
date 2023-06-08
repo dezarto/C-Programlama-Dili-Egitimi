@@ -5,12 +5,14 @@ Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu
 ## Ders anlatım yol haritası
 
 Ders 1 - C Programlama dili nedir? <br/>
-Ders 2 - C Temelleri <br/>
-Ders 3 - Giriş/Çıkış Değerleri	<br/>
-Ders 4 - Matematiksel ifadeler 	<br/>
-Ders 5 - Seçim İfadeleri <br/>
-Ders 6 - Dögüler	<br/>
-Ders 7 - Basic Types	<br/>
-Ders 8 - Arrays	<br/>
-Ders 9 - Functions	<br/>
-Ders 10 - Program Organization	<br/>
+Ders 2 - `scanf()` ve `printf()` kullanımı  && Veri tipleri (`int`,`float` gibi)<br/>
+Ders 3 - Aritmetik operatörler (toplama, çıkarma gibi.)	<br/>
+Ders 4 - Seçim İfadeleri (`if-else`) 	<br/>
+Ders 5 - Dögüler	(`for, while, goto`)<br/>
+Ders 6 - Temel tipler	<br/>
+Ders 7 - `getchar()` ve `putchar()` kullanımı <br/>
+Ders 8 - Diziler <br/>
+- Tek boyutlu diziler <br/>
+- Çok boyutlu diziler <br/>
+
+Ders 9 - Fonksiyonlar	<br/>
