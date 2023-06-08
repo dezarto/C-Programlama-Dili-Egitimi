@@ -4,16 +4,14 @@ Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu
 
 Ders anlatım yol haritası
 
-Introducing C	Chapter 1
-C Fundametals	Chapter 2
+Introducing C  -	Chapter 1
+C Fundametals	- Chapter 2
 Formatted Input/Output	Chapter 3
-Expressions	Chapter 4
-Selection Statements	Chapter 5
+Expressions 	Chapter 4
+Selection Statements	 Chapter 5
 Loops	Chapter 6
 Basic Types	Chapter 7
 Basic Types	Chapter 7
 Arrays	Chapter 8
 Functions	Chapter 9
-Functions	Chapter 9
 Program Organization	Chapter 10
-
