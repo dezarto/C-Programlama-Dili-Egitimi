@@ -4,14 +4,13 @@ Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu
 
 ## Ders anlatım yol haritası
 
-Ders 1 - Introducing C <br/>
-Ders 2 - C Fundametals <br/>
-Ders 3 - Formatted Input/Output	<br/>
-Ders 4 - Expressions 	<br/>
-Ders 5 - Selection Statements	 <br/>
-Ders 6 - Loops	<br/>
+Ders 1 - C Programlama dili nedir? <br/>
+Ders 2 - C Temelleri <br/>
+Ders 3 - Giriş/Çıkış Değerleri	<br/>
+Ders 4 - Matematiksel ifadeler 	<br/>
+Ders 5 - Seçim İfadeleri <br/>
+Ders 6 - Dögüler	<br/>
 Ders 7 - Basic Types	<br/>
-Ders 8 - Basic Types	<br/>
-Ders 9 - Arrays	<br/>
-Ders 10 - Functions	<br/>
-Ders 11 - Program Organization	<br/>
+Ders 8 - Arrays	<br/>
+Ders 9 - Functions	<br/>
+Ders 10 - Program Organization	<br/>
