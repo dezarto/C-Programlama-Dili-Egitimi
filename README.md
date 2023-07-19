@@ -5,7 +5,9 @@ Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu
 ## Ders anlatım yol haritası
 
 Ders 1 - C Programlama dili nedir? <br/>
-Ders 2 - `scanf()` ve `printf()` kullanımı  && Veri tipleri (`int`,`float` gibi)<br/>
+Ders 2 - Yazılım yazabilmemiz için gerekli programın indirilmesi. <br/> 
+Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
+Ders 4 - `scanf()` ve `printf()` kullanımı  && Veri tipleri (`int`,`float` gibi)<br/>
 Ders 3 - Aritmetik operatörler (toplama, çıkarma gibi.)	<br/>
 Ders 4 - Seçim İfadeleri (`if-else`) 	<br/>
 Ders 5 - Dögüler	(`for, while, goto`)<br/>
