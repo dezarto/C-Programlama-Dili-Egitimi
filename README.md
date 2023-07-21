@@ -10,9 +10,8 @@ Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
 Ders 4 - Yorum satırları nasıl yapılır ?<br/>
 Ders 5 - Veri Tipleri nelerdir ? `int`,`float`,`double`,`char`<br/>
 Ders 6 - Kullanıcıdan veri alma ? `scanf()`<br/>
-Ders 4 - `scanf()` ve `printf()` kullanımı  && Veri tipleri (`int`,`float` gibi)<br/>
-Ders 3 - Aritmetik operatörler (toplama, çıkarma gibi.)	<br/>
-Ders 4 - Seçim İfadeleri (`if-else`) 	<br/>
+Ders 7 - Aritmetik operatörler (toplama, çıkarma gibi.)	<br/>
+Ders 8 - Seçim İfadeleri (`if-else`) 	<br/>
 Ders 5 - Dögüler	(`for, while, goto`)<br/>
 Ders 6 - Temel tipler	<br/>
 Ders 7 - `getchar()` ve `putchar()` kullanımı <br/>
