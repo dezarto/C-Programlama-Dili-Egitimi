@@ -13,6 +13,7 @@ Ders 6 - Kullanıcıdan veri alma ? `scanf()`<br/>
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
+Ders 10 - ATM Uygulaması v1<br/>
 Ders 5 - Dögüler	(`for, while, goto`)<br/>
 Ders 6 - Temel tipler	<br/>
 Ders 7 - `getchar()` ve `putchar()` kullanımı <br/>
