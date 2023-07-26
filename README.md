@@ -21,7 +21,7 @@ Ders 10 - ATM Uygulaması v1<br/><br/>
 Değişkenler nasıl olmalıdır <br/>
 scanf() ek ders
 Karşılaştırma & Mantıksal Operatörler ek ders
-
+switch case
 Dögüler	(`for, while, goto`)<br/>
 Temel tipler	<br/>
 `getchar()` ve `putchar()` kullanımı <br/>
