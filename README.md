@@ -20,9 +20,9 @@ Ders 10 - ATM Uygulaması v1<br/><br/>
 
 Çekilecek Dersler
 
-scanf() ek ders
-Karşılaştırma & Mantıksal Operatörler ek ders
-switch case
+scanf() ek ders<br/>
+Karşılaştırma & Mantıksal Operatörler ek ders<br/>
+switch case<br/>
 Dögüler	(`for, while, goto`)<br/>
 Temel tipler	<br/>
 `getchar()` ve `putchar()` kullanımı <br/>
