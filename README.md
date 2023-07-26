@@ -14,11 +14,17 @@ Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
 Ders 10 - ATM Uygulaması v1<br/>
-Ders 5 - Dögüler	(`for, while, goto`)<br/>
-Ders 6 - Temel tipler	<br/>
-Ders 7 - `getchar()` ve `putchar()` kullanımı <br/>
-Ders 8 - Diziler <br/>
+
+<br\>
+Çekilecek Dersler
+
+Değişkenler nasıl olmalıdır <br/>
+
+Dögüler	(`for, while, goto`)<br/>
+Temel tipler	<br/>
+`getchar()` ve `putchar()` kullanımı <br/>
+Diziler <br/>
 - Tek boyutlu diziler <br/>
 - Çok boyutlu diziler <br/>
 
-Ders 9 - Fonksiyonlar	<br/>
+Fonksiyonlar	<br/>
