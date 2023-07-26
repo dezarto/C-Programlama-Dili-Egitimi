@@ -20,6 +20,7 @@ Ders 10 - ATM Uygulaması v1<br/><br/>
 
 Değişkenler nasıl olmalıdır <br/>
 scanf() ek ders
+Karşılaştırma & Mantıksal Operatörler ek ders
 
 Dögüler	(`for, while, goto`)<br/>
 Temel tipler	<br/>
