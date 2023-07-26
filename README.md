@@ -22,7 +22,6 @@ Ders 10 - ATM Uygulaması v1<br/><br/>
 
 Çekilecek Dersler
 
-scanf() ek ders<br/>
 Karşılaştırma & Mantıksal Operatörler ek ders<br/>
 switch case<br/>
 Dögüler	(`for, while, goto`)<br/>
