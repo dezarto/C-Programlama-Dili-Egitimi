@@ -10,6 +10,7 @@ Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
 Ders 4 - Yorum satırları nasıl yapılır ?<br/>
 Ders 5 - Veri Tipleri nelerdir ? (`int`,`float`,`double`,`char`)<br/>
 - Değişkenler nasıl tanımlanmalıdır ? <br/>
+
 Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
