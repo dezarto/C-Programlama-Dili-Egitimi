@@ -19,6 +19,7 @@ Ders 10 - ATM Uygulaması v1<br/><br/>
 Çekilecek Dersler
 
 Değişkenler nasıl olmalıdır <br/>
+scanf() ek ders
 
 Dögüler	(`for, while, goto`)<br/>
 Temel tipler	<br/>
