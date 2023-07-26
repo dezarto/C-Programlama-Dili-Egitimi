@@ -8,8 +8,8 @@ Ders 1 - C Programlama dili nedir? <br/>
 Ders 2 - Yazılım yazabilmemiz için gerekli programın indirilmesi. <br/> 
 Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
 Ders 4 - Yorum satırları nasıl yapılır ?<br/>
-Ders 5 - Veri Tipleri nelerdir ? `int`,`float`,`double`,`char`<br/>
-Ders 6 - Kullanıcıdan veri alma ? `scanf()`<br/>
+Ders 5 - Veri Tipleri nelerdir ? (`int`,`float`,`double`,`char`)<br/>
+Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
