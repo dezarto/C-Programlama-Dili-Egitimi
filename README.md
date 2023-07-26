@@ -12,6 +12,8 @@ Ders 5 - Veri Tipleri nelerdir ? (`int`,`float`,`double`,`char`)<br/>
 - Değişkenler nasıl tanımlanmalıdır ? <br/>
 
 Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
+- scanf() Özellikleri <br/>
+
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
