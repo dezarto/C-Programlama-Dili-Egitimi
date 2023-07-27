@@ -11,13 +11,13 @@ Ders 2 - Yazılım yazabilmemiz için gerekli programın indirilmesi. <br/>
 Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
 Ders 4 - Yorum satırları nasıl yapılır ?<br/>
 Ders 5 - Veri Tipleri nelerdir ? (`int`,`float`,`double`,`char`)<br/>
-- Değişkenler nasıl tanımlanmalıdır ? <br/>
+- Ek Ders Değişkenler nasıl tanımlanmalıdır ? <br/>
 
 Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
-- scanf() Özellikleri <br/>
+- Ek Ders scanf() Özellikleri <br/>
 
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
-- İşinizi kolaylaştıracak kullanım şekli.<br/>
+- Ek Ders İşinizi kolaylaştıracak kullanım şekli.<br/>
 
 
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
