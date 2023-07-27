@@ -2,7 +2,7 @@
 
 Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu derslerimizde sizlere C programlama dilini temel seviyede öğretmeye başlayıp ileri seviyeye kadar taşımayı öngörüyorum. Kodları burada paylaştıklarıma bakrak kendi parmaklarınızla yazmanız sizlerin öğrenimi açısından daha faydalı olacaktır. 
 
-## Ders anlatım yol haritası
+## Müfredat I
 
 Ders 1 - C Programlama dili nedir? <br/>
 Ders 2 - Yazılım yazabilmemiz için gerekli programın indirilmesi. <br/> 
@@ -15,22 +15,18 @@ Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
 - scanf() Özellikleri <br/>
 
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
+- İşinizi kolaylaştıracak kullanım şekli.<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
-Ders 10 - ATM Uygulaması v1<br/><br/>
-
-
-Çekilecek Dersler
-
-Aritmetik operatörler ek ders
-Karşılaştırma & Mantıksal Operatörler ek ders<br/>
-switch case<br/>
-Dögüler	(`for, while, goto`)<br/>
-boolean
-Temel tipler	<br/>
-`getchar()` ve `putchar()` kullanımı <br/>
-Diziler <br/>
+Örnek Uygulama 1 - ATM Uygulaması v1<br/>
+Ders 10 - switch() Yapısı Kullanımı<br/>
+Ders 11 - Döngülere Giriş (`for()`, `while()`, `do{}while()`)<br/>
+Örnek Uygulama 2 - ATM Uygulaması v2<br/>
+Ders 12 - Boolean'lar<br/>
+Ders 13 - Dizilere Giriş<br/>
 - Tek boyutlu diziler <br/>
 - Çok boyutlu diziler <br/>
 
-Fonksiyonlar	<br/>
+## Müfredat II
+
+`Çooook Yakında Başlayacak...`<br/>
