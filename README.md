@@ -16,6 +16,7 @@ Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
 
 Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 - İşinizi kolaylaştıracak kullanım şekli.<br/>
+
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
 Örnek Uygulama 1 - ATM Uygulaması v1<br/>
