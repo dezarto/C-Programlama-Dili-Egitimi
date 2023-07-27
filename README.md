@@ -2,6 +2,8 @@
 
 Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu derslerimizde sizlere C programlama dilini temel seviyede öğretmeye başlayıp ileri seviyeye kadar taşımayı öngörüyorum. Kodları burada paylaştıklarıma bakrak kendi parmaklarınızla yazmanız sizlerin öğrenimi açısından daha faydalı olacaktır. 
 
+Eğitim serisi: https://www.youtube.com/playlist?list=PLMgqB2Jpz-mOoHW-jrhoLbAH9FgplgLV0
+
 ## Müfredat I
 
 Ders 1 - C Programlama dili nedir? <br/>
