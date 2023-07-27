@@ -32,8 +32,9 @@ Ders 13 - Dizilere Giriş<br/>
 - Çok boyutlu diziler <br/>
 
 Ders 14 - Tür dönüşümleri<br/>
-
-
+Ders 15 - Fonksiyonlar Nedir ?<br/>
+- Parametreli Fonksiyonlar<br/>
+- Parametresiz Fonksiyonlar<br/>
 
 ## Müfredat II - İleri Seviye
 
