@@ -12,7 +12,6 @@ Ders 3 - Ekrana yazı yazdırma işlevi. `printf()`<br/>
 Ders 4 - Yorum satırları nasıl yapılır ?<br/>
 Ders 5 - Veri Tipleri nelerdir ? (`int`,`float`,`double`,`char`)<br/>
 - Ek Ders: Değişkenler nasıl tanımlanmalıdır ? <br/>
-- Ek Ders: Local ve Global değişkenlerin tanımı. <br/>
 
 Ders 6 - Kullanıcıdan veri alma ? (`scanf()`)<br/>
 - Ek Ders: scanf() Özellikleri <br/>
@@ -24,16 +23,17 @@ Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
 Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
 Örnek Uygulama 1 - ATM Uygulaması v1<br/>
-Ders 10 - switch() Yapısı Kullanımı<br/>
-Ders 11 - Döngülere Giriş (`for()`, `while()`, `do{}while()`)<br/>
+Ders 10 - Local ve Global değişkenlerin tanımı. <br/>
+Ders 11 - switch() Yapısı Kullanımı<br/>
+Ders 12 - Döngülere Giriş (`for()`, `while()`, `do{}while()`)<br/>
 Örnek Uygulama 2 - ATM Uygulaması v2<br/>
-Ders 12 - Boolean'lar<br/>
-Ders 13 - Dizilere Giriş<br/>
+Ders 13 - Boolean'lar<br/>
+Ders 14 - Dizilere Giriş<br/>
 - Tek boyutlu diziler <br/>
 - Çok boyutlu diziler <br/>
 
-Ders 14 - Tür dönüşümleri<br/>
-Ders 15 - Fonksiyonlar Nedir ?<br/>
+Ders 15 - Tür dönüşümleri<br/>
+Ders 16 - Fonksiyonlar Nedir ?<br/>
 - Parametreli Fonksiyonlar<br/>
 - Parametresiz Fonksiyonlar<br/>
 
