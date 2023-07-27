@@ -26,6 +26,7 @@ Aritmetik operatörler ek ders
 Karşılaştırma & Mantıksal Operatörler ek ders<br/>
 switch case<br/>
 Dögüler	(`for, while, goto`)<br/>
+boolean
 Temel tipler	<br/>
 `getchar()` ve `putchar()` kullanımı <br/>
 Diziler <br/>
