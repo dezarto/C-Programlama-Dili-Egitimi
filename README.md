@@ -4,7 +4,7 @@ Burada sizlerle derslerde yazmış olduğum kodları paylaşıyor olacağım. Bu
 
 Eğitim serisi: https://www.youtube.com/playlist?list=PLMgqB2Jpz-mOoHW-jrhoLbAH9FgplgLV0
 
-## Müfredat I
+## Müfredat I - Temel Seviye
 
 Ders 1 - C Programlama dili nedir? <br/>
 Ders 2 - Yazılım yazabilmemiz için gerekli programın indirilmesi. <br/> 
@@ -31,6 +31,6 @@ Ders 13 - Dizilere Giriş<br/>
 - Tek boyutlu diziler <br/>
 - Çok boyutlu diziler <br/>
 
-## Müfredat II
+## Müfredat II - İleri Seviye
 
 `Çooook Yakında Başlayacak...`<br/>
