@@ -21,11 +21,11 @@ Ders 7 - Aritmetik operatörler (`+`, `-`, `*`, `/`, `%`, `++`, `--`)	<br/>
 
 
 Ders 8 - Karşılaştırma & Mantıksal Operatörler <br/>
-Ders 9 - Seçim İfadeleri (`if-else`) 	<br/>
+Ders 9 - Seçim İfadeleri (`if-else`) 	<br/><br/>
 Örnek Uygulama 1 - ATM Uygulaması v1<br/>
 Ders 10 - Local ve Global değişkenlerin tanımı. <br/>
 Ders 11 - switch() Yapısı Kullanımı<br/>
-Ders 12 - Döngülere Giriş (`for()`, `while()`, `do{}while()`)<br/>
+Ders 12 - Döngülere Giriş (`for()`, `while()`, `do{}while()`)<br/><br/>
 Örnek Uygulama 2 - ATM Uygulaması v2<br/>
 Ders 13 - Boolean'lar<br/>
 Ders 14 - Dizilere Giriş<br/>
