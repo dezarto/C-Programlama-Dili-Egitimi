@@ -41,6 +41,15 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 - Parametresiz Fonksiyonlar<br/>
 - Parametreli Fonksiyonlar<br/>
 
+### Pekiştirme Örnekleri
+Örnek 1 - Çarpım Tablosu
+Örnek 2 - Faktöriyel Hesaplama<br/>
+Örnek 3 - Farklı şekillerde scanf() değer alma<br/>
+Örnek 4 - Basamak sayısını bulma<br/>
+Örnek 5 - En büyük sayıyı bulma<br/>
+Örnek 6 - ATM parçalı para çekme<br/>
+Örnek 7 - Dizide en büyük sayıyı bulma<br/>
+
 ## Müfredat II - İleri Seviye
 
 Ders 17 - Pointers<br/>
