@@ -42,13 +42,13 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 - Parametreli Fonksiyonlar<br/>
 
 ## Müfredat II - İleri Seviye
-Ders 17 - Tür dönüşümleri<br/>
-Ders 18 - Pointers<br/>
-Ders 19 - Pointers ve Diziler<br/>
-Ders 20 - Strings<br/>
-Ders 21 - Ön İşlemciler	<br/>
-Ders 22 - Structures, Unions, and Enumerations<br/>
-Ders 23 - Advanced Uses of Pointers,	<br/>
-Ders 24 - Input/Output<br/>
+
+Ders 17 - Pointers<br/>
+Ders 18 - Pointers ve Diziler<br/>
+Ders 19 - Strings<br/>
+Ders 20 - Ön İşlemciler	<br/>
+Ders 21 - Structures, Unions, and Enumerations<br/>
+Ders 22 - Advanced Uses of Pointers,	<br/>
+Ders 23 - Input/Output<br/>
 <br/>
 `Devamı Yakında Başlayacak...`<br/>
