@@ -42,7 +42,7 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 - Parametreli Fonksiyonlar<br/>
 
 ### Pekiştirme Örnekleri
-Örnek 1 - Çarpım Tablosu
+Örnek 1 - Çarpım Tablosu<br/>
 Örnek 2 - Faktöriyel Hesaplama<br/>
 Örnek 3 - Farklı şekillerde scanf() değer alma<br/>
 Örnek 4 - Basamak sayısını bulma<br/>
