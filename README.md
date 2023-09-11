@@ -48,7 +48,6 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 Örnek 4 - Basamak sayısını bulma<br/>
 Örnek 5 - En büyük sayıyı bulma<br/>
 Örnek 6 - ATM parçalı para çekme<br/>
-Örnek 7 - Dizide en büyük sayıyı bulma<br/>
 
 ## Müfredat II - İleri Seviye
 
