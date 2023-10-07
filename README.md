@@ -54,6 +54,7 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 Ders 17 - Pointers<br/>
 - Call by Value<br/>
 - Call by Reference<br/>
+
 Ders 18 - Pointers ve Diziler<br/>
 Ders 19 - Strings<br/>
 Ders 20 - Ön İşlemciler	<br/>
