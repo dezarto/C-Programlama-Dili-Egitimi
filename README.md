@@ -52,10 +52,11 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 ## Müfredat II - İleri Seviye
 
 Ders 17 - Pointers<br/>
+Ders 18 - Pointers ve Diziler<br/>
+- Pointerlar ile Fonksiyonlar</br>
 - Call by Value<br/>
 - Call by Reference<br/>
 
-Ders 18 - Pointers ve Diziler<br/>
 Ders 19 - Strings<br/>
 Ders 20 - Ön İşlemciler	<br/>
 Ders 21 - Structures, Unions, and Enumerations<br/>
