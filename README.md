@@ -59,7 +59,12 @@ Ders 18 - Pointers ve Diziler<br/>
 
 Ders 19 - Strings<br/>
 Ders 20 - Ön İşlemciler	<br/>
-Ders 21 - Structures(Yapılar), Unions, and Enumerations<br/>
-Ders 22 - Advanced Uses of Pointers,	<br/>
-Ders 23 - Input/Output<br/>
+Ders 21 - Structures(Yapılar)<br/>
+- Nested Structures (İç içe yapılar)
+Ders 22 - Unions <br/>
+Ders 23 - Enumerations<br/>
+Ders 24 - Advanced Uses of Pointers,	<br/>
+Ders 25 - Input/Output<br/>
 <br/>
+
+Devam edecek...
