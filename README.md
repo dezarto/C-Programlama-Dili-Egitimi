@@ -63,7 +63,7 @@ Ders 21 - Structures(Yapılar)<br/>
 - Nested Structures (İç içe yapılar)<br/>
 
 Ders 22 - Unions <br/>
-Ders 23 - Enumerations<br/>
+Ders 23 - Enumerations(Numaralanadırmalar)<br/>
 Ders 24 - Advanced Uses of Pointers(`Dinamik Bellek Tahsisi (malloc(), calloc(), free() ve realloc())`)	<br/>
 Ders 25 - Input/Output<br/>
 <br/>
