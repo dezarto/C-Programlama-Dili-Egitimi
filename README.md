@@ -68,7 +68,5 @@ Ders 24 - Advanced Uses of Pointers(`Dinamik Bellek Tahsisi (malloc(), calloc(),
 - malloc() ve free()<br/>
 - calloc() vs malloc()<br/>
 - realloc()<br/>
-Ders 25 - Input/Output<br/>
-<br/>
 
-Devam edecek...
+Ders 25 - Input/Output<br/>
