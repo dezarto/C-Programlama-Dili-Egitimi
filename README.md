@@ -53,8 +53,8 @@ Ders 16 - Fonksiyonlar Nedir ?<br/>
 
 ## Müfredat II - İleri Seviye
 
-Ders 17 - Pointers<br/>
-Ders 18 - Pointers ve Diziler<br/>
+Ders 17 - Pointers - İşaretçiler <br/>
+- Pointers ve Diziler<br/>
 - Pointerlar ile Fonksiyonlar</br>
 - Call by Value<br/>
 - Call by Reference<br/>
