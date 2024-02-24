@@ -40,6 +40,8 @@ Ders 15 - Tür dönüşümleri<br/>
 Ders 16 - Fonksiyonlar Nedir ?<br/>
 - Parametresiz Fonksiyonlar<br/>
 - Parametreli Fonksiyonlar<br/>
+- Fonkisyonlarla Dizilerin Kullanımı<br/>
+- Fonksiyon Tanımlama<br/>
 
 ### Pekiştirme Örnekleri
 Örnek 1 - Çarpım Tablosu<br/>
