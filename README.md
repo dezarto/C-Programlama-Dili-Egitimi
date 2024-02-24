@@ -59,16 +59,16 @@ Ders 17 - Pointers - İşaretçiler <br/>
 - Call by Value<br/>
 - Call by Reference<br/>
 
-Ders 19 - Strings<br/>
-Ders 20 - Ön İşlemciler	<br/>
-Ders 21 - Structures(Yapılar)<br/>
+Ders 18 - Strings<br/>
+Ders 19 - Ön İşlemciler	<br/>
+Ders 20 - Structures(Yapılar)<br/>
 - Nested Structures (İç içe yapılar)<br/>
 
-Ders 22 - Unions <br/>
-Ders 23 - Enumerations(Numaralanadırmalar)<br/>
-Ders 24 - Advanced Uses of Pointers(`Dinamik Bellek Tahsisi (malloc(), calloc(), free() ve realloc())`)	<br/>
+Ders 21 - Unions <br/>
+Ders 22 - Enumerations(Numaralanadırmalar)<br/>
+Ders 23 - Advanced Uses of Pointers(`Dinamik Bellek Tahsisi (malloc(), calloc(), free() ve realloc())`)	<br/>
 - malloc() ve free()<br/>
 - calloc() vs malloc()<br/>
 - realloc()<br/>
 
-Ders 25 - Input/Output<br/>
+Ders 24 - Input/Output<br/>
